@@ -11,6 +11,16 @@
 html {
   overflow-y: scroll;
 }
+#seeking_talent,#seeking_venue{
+  width: 15px;
+  height:15px;
+  display: inline-block;
+  margin:0 0 5px 20px;
+}
+.form-group.radio_group{
+  display: flex;
+  align-items: center;
+}
 section {
   margin: 50px 0;
 }
